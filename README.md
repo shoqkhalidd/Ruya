@@ -36,3 +36,11 @@ Ruya is an advanced voice assistant designed to assist visually impaired individ
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+## Contribution
+
+This project was a collaborative effort by our team:
+
+- [**Abdulaziz Alenazi**](https://linkedin.com/in/abdulaziz-alenazi)
+- [**Badr Alanazi**](https://linkedin.com/in/badralanazix)
+- [**Modar Alfadly** (Mentor)](https://linkedin.com/in/modar-alfadly)
